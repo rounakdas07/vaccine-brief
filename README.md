@@ -13,11 +13,15 @@ Built by **Rounak Das**, a medical student at the University of Nottingham, with
 ## Try it in 30 seconds
 
 1. Start with **TG4050**. Read the result and its denominator caveat together.
-2. Open **Compare the study designs** to see differences from VISTA.
-3. Open **Sources & review notes** to trace the claim to the relevant section.
+2. Select **Study design** to see differences from VISTA.
+3. Select **Sources** to trace the claim to the relevant section.
 4. Choose **Download brief**. The text file includes sources, interpretation and limits.
 
 The other examples cover a sponsor-reported Phase 3 result, a longer-term published update, a non-randomised immune-response analysis and a historical negative trial. They are deliberately not ordered by efficacy.
+
+## Interface
+
+A compact study list opens one brief at a time. **Brief**, **Study design** and **Sources** tabs separate the reading tasks; arrow keys move between tabs. The finding and caveat stay together in the default view. On phones, a native selector replaces the sidebar. Downloads remain available from every tab.
 
 ## Why this exists
 

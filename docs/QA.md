@@ -13,4 +13,13 @@ Checked 18 November 2026.
 
 This is a manually curated research prototype, not clinical validation, exhaustive browser testing or a live evidence-monitoring service. The evidence limitations and source-access disclosures remain part of the app and its exports.
 
-![Live Vaccine Brief on GitHub Pages](screenshot.jpg)
+## Interface redesign
+
+The second interface replaces the large introduction and coloured panels with a compact study workspace. The clinical data and export functions are unchanged.
+
+- All 10 existing evidence tests and the JavaScript syntax check passed after the UI changes.
+- Brief, Study design and Sources tabs were checked, including arrow-key navigation.
+- All five studies were selected in the 320 px test frame; each had equal document and content widths (305 px after the frame scrollbar), with no horizontal overflow. The 390 px layout was visually checked.
+- The About dialog, selected brief text and individual download were checked. The exported TG4050 brief remains 4,536 characters and retains the early-relapse exclusion.
+
+![Vaccine Brief, redesigned interface](screenshot.jpg)

@@ -9,7 +9,7 @@ I built Vaccine Brief to turn cancer-vaccine trial results into source-linked co
 1. Open the tool. TG4050 is selected.
 2. Point to the reported `0 / 16` relapses. It is explicitly a per-protocol population.
 3. Read the adjacent caveat: an early relapse after two doses was excluded from that population. The tool helps prevent an overbroad claim about all vaccinated patients.
-4. Open the design comparison. VISTA differs in cancer type, antigen strategy and vaccination timing.
+4. Select the **Study design** tab. VISTA differs in cancer type, antigen strategy and vaccination timing.
 5. Download the brief. Sources, limitations and a question for the team are included.
 
 ## What you can honestly say
